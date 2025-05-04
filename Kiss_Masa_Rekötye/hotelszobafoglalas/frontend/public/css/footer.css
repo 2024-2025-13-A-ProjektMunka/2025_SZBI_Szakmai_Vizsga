@@ -1,0 +1,83 @@
+.footermain {
+  color: black;
+}
+
+/* Középre igazított footer */
+.footermaindiv {
+  margin: 0;
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  display: grid;
+  justify-content: center;
+  padding: 10px;
+}
+
+/* Szövegdoboz */
+.footerp {
+  border: solid 1px white;
+  padding: 5px;
+  color: white;
+  border-radius: 8px;
+  text-align: center;
+  font-size: 1em;
+}
+
+/* Jobb alsó sarokban fix elem */
+.footer {
+  margin: 0 !important;
+  position: fixed;
+  bottom: 1px;
+  right: 1px;
+  transform: translate(-10%, -10%);
+}
+
+
+/* Reszponzív töréspontok */
+@media (max-width: 768px) {
+  .footermaindiv {
+    bottom: 0;
+    padding: 5px;
+  }
+
+  .footerp {
+    font-size: 0.9em; /* Kicsit kisebb szöveg tableten */
+    padding: 4px;
+  }
+
+  .footer {
+    bottom: 5px;
+    right: 5px;
+    transform: translate(0, 0); /* Pontosan a sarokba */
+  }
+
+  .bs {
+    margin: 3em;
+    padding: 20px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .footermaindiv {
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+  }
+
+  .footerp {
+    font-size: 0.8em; /* Mobilon még kisebb betűméret */
+    padding: 3px;
+  }
+
+  .footer {
+    bottom: 10px;
+    right: 10px;
+    transform: translate(0, 0); /* Pontosan a sarokba igazítva */
+  }
+
+  .bs {
+    margin: 2em;
+    padding: 15px !important;
+  }
+}

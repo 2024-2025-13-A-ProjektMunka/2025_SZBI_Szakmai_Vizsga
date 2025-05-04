@@ -1,0 +1,69 @@
+.container {
+  padding-top: 6em !important;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.search {
+  background-color: rgba(0, 0, 0, 0.333) !important;
+  margin-top: 0 !important;
+  position: fixed !important;
+  justify-content: space-around;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10px !important;
+  padding: 25px !important;
+  flex-wrap: nowrap;
+  align-items: center;
+  display: flex;
+  /* display: grid; */
+  width: 80%;
+}
+
+.room {
+  margin-top: 6.5em !important;
+  display: grid;
+  flex-wrap: nowrap;
+  row-gap: 2em; /* Növeljük a sorok közötti távolságot */
+  column-gap: 2em; /* Növeljük az oszlopok közötti távolságot */
+  grid-template-columns: repeat(2, 1fr);
+  /* justify-items: center; */
+  padding-top: 2em;
+}
+
+.room-kontener {
+  background-color: black;
+  height: auto;
+}
+
+.rangepickerdiv {
+  width: 25%;
+}
+.ant-picker-input > input {
+  text-align: center;
+}
+
+@media screen and (max-width: 1200px) {
+  .room {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .room {
+    display: flex !important;
+    padding-top: 10em;
+    margin-top: 12em !important;
+    flex-direction: column;
+  }
+
+  .search {
+    flex-direction: column;
+    top: 5.5em;
+  }
+
+  .rangepickerdiv {
+    width: 100%;
+  }
+}

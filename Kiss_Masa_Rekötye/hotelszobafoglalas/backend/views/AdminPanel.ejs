@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="hu">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="/css/stilus.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+  </head>
+  <body>
+    <div class="admin bs">
+      <h1 class="text-center" style="text-align: center; font-size: 30px">
+        <b>Admin Panel</b>
+      </h1>
+      <div class="tabs">
+        <button class="menubtn" onclick="showTab('foglalasok')">
+          Foglalások
+        </button>
+        <button class="menubtn" onclick="showTab('szobak')">Szobák</button>
+        <button class="menubtn" onclick="showTab('addroom')">
+          Szoba hozzáadása
+        </button>
+        <button class="menubtn" onclick="showTab('users')">Felhasználók</button>
+        <a href="http://localhost:5173/">Vissza</a>
+      </div>
+
+      <div id="foglalasok" class="tab-content">
+        <h1>Foglalások</h1>
+        <table class="table table-bordered table-dark">
+          <thead>
+            <tr>
+              <th>Felhasználó</th>
+              <th>Szoba Id</th>
+              <th>Hotel</th>
+              <th>Ettől</th>
+              <th>Eddig</th>
+              <th>Ár</th>
+              <th>Státusz</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody>
+            <% bookings.forEach(function(elem) { %>
+            <tr>
+              <td><%= elem.felhasznalo.name %></td>
+              <td><%= elem._id %></td>
+              <td><%= elem.room %></td>
+              <td><%= elem.fromdate %></td>
+              <td><%= elem.todate %></td>
+              <td><%= elem.totalamount %>€</td>
+              <td>
+                <%= elem.status === 'booked' ? 'LEFOGLALT' : 'VISSZA MONDOTT' %>
+              </td>
+              <td>
+                <form>
+                  <button
+                    type="submit"
+                    class="btn"
+                    onclick="foglalastorol('<%= elem._id %>')"
+                  >
+                    <i class="fa fa-trash"></i> Töröl
+                  </button>
+                </form>
+              </td>
+            </tr>
+            <% }); %>
+          </tbody>
+        </table>
+      </div>
+
+      <div id="szobak" class="tab-content" style="display: none">
+        <!-- Szobák adatokat az AJAX hívással fogjuk betölteni -->
+      </div>
+
+      <div id="addroom" class="tab-content" style="display: none"></div>
+
+      <div id="users" class="tab-content" style="display: none"></div>
+    </div>
+
+    <!-- Modális ablak -->
+    <div id="editModal" class="modal" style="display: none">
+      <div class="modal-content">
+        <span class="close" onclick="closeModal()">&times;</span>
+        <h2>Szoba szerkesztése</h2>
+        <form id="editRoomForm">
+          <input type="hidden" id="editRoomId" />
+          <div>
+            <label for="editRoomName">Név:</label>
+            <input type="text" id="editRoomName" required />
+          </div>
+          <div>
+            <label for="editRoomType">Típus:</label>
+            <input type="text" id="editRoomType" required />
+          </div>
+          <div>
+            <label for="editRoomRentPerDay">Ár/nap:</label>
+            <input type="number" id="editRoomRentPerDay" required />
+          </div>
+          <div>
+            <label for="editRoomMaxCount">Maximális férőhely:</label>
+            <input type="number" id="editRoomMaxCount" required />
+          </div>
+          <div>
+            <label for="editRoomPhoneNumber">Telefonszám:</label>
+            <input type="tel" id="editRoomPhoneNumber" required />
+          </div>
+
+          <h4>Extra szolgáltatások</h4>
+          <div>
+            <label for="editExtraSzobaszerviz">Szobaszerviz</label>
+            <input type="checkbox" id="editExtraSzobaszerviz" />
+          </div>
+          <div>
+            <label for="editExtraMinibar">Minibár</label>
+            <input type="checkbox" id="editExtraMinibar" />
+          </div>
+          <div>
+            <label for="editExtraFitneszterem">Fitneszterem</label>
+            <input type="checkbox" id="editExtraFitneszterem" />
+          </div>
+          <div>
+            <label for="editExtraParkolo">Parkoló</label>
+            <input type="checkbox" id="editExtraParkolo" />
+          </div>
+          <div>
+            <label for="editExtraEtkezes">Étkezés</label>
+            <input type="checkbox" id="editExtraEtkezes" />
+          </div>
+          <div>
+            <label for="editExtraReggeli">Reggeli</label>
+            <input type="checkbox" id="editExtraReggeli" />
+          </div>
+          <div>
+            <label for="editExtraWifi">WiFi</label>
+            <input type="checkbox" id="editExtraWifi" />
+          </div>
+
+          <button type="button" onclick="updateRoom()">Frissítés</button>
+        </form>
+      </div>
+    </div>
+    <script src="/js/script.js"></script>
+  </body>
+</html>

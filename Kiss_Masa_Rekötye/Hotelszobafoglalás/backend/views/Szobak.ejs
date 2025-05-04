@@ -1,0 +1,43 @@
+<h1>Szobák</h1>
+<table class="table table-bordered table-dark">
+  <thead>
+    <tr>
+      <th>Szoba Id</th>
+      <th>Név</th>
+      <th>Típus</th>
+      <th>Ár/nap</th>
+      <th>Maximális férőhely</th>
+      <th>Telefonszám</th>
+      <th>Szerkesztés</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% rooms.forEach(function(room) { %>
+    <tr>
+      <td><%= room._id %></td>
+      <td><%= room.name %></td>
+      <td><%= room.type %></td>
+      <td><%= room.rentperday %></td>
+      <td><%= room.maxcount %></td>
+      <td><%= room.phonenumber %></td>
+      <td>
+        <button
+          class="btn btn-warning"
+          onclick="openModal('<%= room._id %>', '<%= room.name %>', '<%= room.type %>', '<%= room.rentperday %>', '<%= room.maxcount %>', '<%= room.phonenumber %>', '<%= room.extrak %>')"
+        >
+          Szerkeszt
+        </button>
+        <form>
+          <button
+            type="submit"
+            class="btn btn-danger"
+            onclick="szobatorol('<%= room._id %>')"
+          >
+            Töröl
+          </button>
+        </form>
+      </td>
+    </tr>
+    <% }); %>
+  </tbody>
+</table>
