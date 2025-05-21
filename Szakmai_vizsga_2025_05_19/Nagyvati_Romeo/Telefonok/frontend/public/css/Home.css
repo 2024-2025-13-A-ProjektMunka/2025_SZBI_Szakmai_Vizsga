@@ -1,0 +1,35 @@
+.home-container {
+    align-items: center;
+    background-image: url('/images/big-bg.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    height: min(90.4vh);
+    justify-content: center;
+    margin-top: 88px;
+    width: 100%;
+}
+
+.home-kategoriak {
+    display: grid;
+    gap: 2em;
+    margin: auto;
+}
+
+.home-kategoria {
+    align-items: center;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    padding: 3em;
+    width: 100%;
+}
+
+.home-kategoria a {
+    color: blue;
+    cursor: pointer;
+    font-size: 3em;
+    text-decoration: none;
+}

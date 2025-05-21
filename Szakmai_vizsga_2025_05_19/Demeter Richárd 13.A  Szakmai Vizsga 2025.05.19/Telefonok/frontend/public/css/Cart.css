@@ -1,0 +1,58 @@
+.kosar-container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 88px;
+    width: 100%;
+}
+
+.kosar-container h1 {
+    background-color: #fff;
+    margin: auto;
+    text-align: center;
+}
+
+.kosar-kontener {
+    align-items: center;
+    display: grid;
+    gap: 1em;
+    min-height: 100vh;
+    margin: 20px auto;
+    width: 80%;
+}
+
+.kosar-elem {
+    align-items: center;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+    height: 350px;
+    padding: 1em;
+}
+
+.kosar-elem img {
+    height: 200px;
+    object-fit: cover;
+    width: 200px;
+}
+
+.kosar-elem button {
+    cursor: pointer;
+    font-size: 2em;
+    padding: 5px;
+}
+
+@media screen and (max-width: 1200px) {
+  .kosar-container{
+    grid-template-columns: auto;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .kosar-elem{
+    grid-template-columns: auto;
+  }
+}

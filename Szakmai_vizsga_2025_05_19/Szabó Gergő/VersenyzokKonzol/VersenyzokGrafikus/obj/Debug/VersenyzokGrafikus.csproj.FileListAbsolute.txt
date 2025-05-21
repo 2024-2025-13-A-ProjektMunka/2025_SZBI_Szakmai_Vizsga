@@ -1,0 +1,5 @@
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Szabó Gergő\VersenyzokKonzol\VersenyzokGrafikus\obj\Debug\VersenyzokGrafikus.csproj.AssemblyReference.cache
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Szabó Gergő\VersenyzokKonzol\VersenyzokGrafikus\obj\Debug\VersenyzokGrafikus.Form1.resources
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Szabó Gergő\VersenyzokKonzol\VersenyzokGrafikus\obj\Debug\VersenyzokGrafikus.Properties.Resources.resources
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Szabó Gergő\VersenyzokKonzol\VersenyzokGrafikus\obj\Debug\VersenyzokGrafikus.csproj.GenerateResource.cache
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Szabó Gergő\VersenyzokKonzol\VersenyzokGrafikus\obj\Debug\VersenyzokGrafikus.csproj.CoreCompileInputs.cache

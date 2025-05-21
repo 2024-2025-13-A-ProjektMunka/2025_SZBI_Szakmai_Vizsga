@@ -1,0 +1,32 @@
+[
+    {
+        "nev": "xiaomi redmi 13",
+        "xiaomi_max_memoria": 256,
+        "xiaomi_mennyisegi_ar": 64999
+    },
+    {
+        "nev": "xiaomi redmi note 13",
+        "xiaomi_max_memoria": 256,
+        "xiaomi_mennyisegi_ar": 89900
+    },
+    {
+        "nev": "xiaomi redmi a3",
+        "xiaomi_max_memoria": 128,
+        "xiaomi_mennyisegi_ar": 37900
+    },
+    {
+        "nev": "xiaomi redmi 14c",
+        "xiaomi_max_memoria": 256,
+        "xiaomi_mennyisegi_ar": 59999
+    },
+    {
+        "nev": "xiaomi 14t",
+        "xiaomi_max_memoria": 512,
+        "xiaomi_mennyisegi_ar": 199999
+    },
+    {
+        "nev": "xiaomi redmi 15",
+        "xiaomi_max_memoria": 256,
+        "xiaomi_mennyisegi_ar": 3499999
+    }
+]

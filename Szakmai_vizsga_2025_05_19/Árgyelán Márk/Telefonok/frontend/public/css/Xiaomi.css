@@ -1,0 +1,85 @@
+.xiaomiok-container {
+    align-items: center;
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    margin-top: 40px;
+    width: 100%;
+}
+
+.xiaomiok-kontener {
+    display: grid;
+    gap: 1em;
+    margin: auto;
+    padding-top: 4em;
+    width: 80%;
+}
+
+.xiaomi-container {
+    align-items: center;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 3px;
+    height: 90%;
+    justify-content: center;
+    padding: 1em;
+}
+
+.xiaomi-kep {
+    padding: 5px;
+    width: 60%;
+}
+
+.xiaomi-kep img {
+    height: 60%;
+    object-fit: fill;
+    width: 80%;
+}
+
+.xiaomi-leiras {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.xiaomiok-szamlalo {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
+
+.xiaomiok-szamlalo .material-symbols-outlined {
+    background-color: #bbbbbb;
+    cursor: pointer;
+    height: 30px;
+    font-size: 30px;
+    user-select: none;
+    width: 30px;
+}
+
+@media (max-width: 900px) {
+  .xiaomiok-kontener {
+    width: 98%;
+    padding-top: 1em;
+  }
+  .xiaomi-container {
+    flex-direction: column;
+    align-items: center;
+    padding: 0.5em;
+    height: auto;
+  }
+  .xiaomi-kep {
+    width: 90%;
+    padding: 0;
+  }
+  .xiaomi-kep img {
+    width: 100%;
+    height: auto;
+  }
+  .xiaomi-leiras {
+    gap: 0.5em;
+  }
+}

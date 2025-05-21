@@ -1,0 +1,32 @@
+[
+    {
+        "nev": "iPhone 13",
+        "iphone_max_memoria": 256,
+        "iphone_mennyisegi_ar": 289900
+    },
+    {
+        "nev": "iPhone 14",
+        "iphone_max_memoria": 128,
+        "iphone_mennyisegi_ar": 264900
+    },
+    {
+        "nev": "iPhone 15",
+        "iphone_max_memoria": 256,
+        "iphone_mennyisegi_ar": 399990
+    },
+    {
+        "nev": "iPhone 16e",
+        "iphone_max_memoria": 128,
+        "iphone_mennyisegi_ar": 299900
+    },
+    {
+        "nev": "iPhone 16",
+        "iphone_max_memoria": 256,
+        "iphone_mennyisegi_ar": 449900
+    },
+    {
+        "nev": "iPhone 16 pro",
+        "iphone_max_memoria": 1024,
+        "iphone_mennyisegi_ar": 749900
+    }
+]

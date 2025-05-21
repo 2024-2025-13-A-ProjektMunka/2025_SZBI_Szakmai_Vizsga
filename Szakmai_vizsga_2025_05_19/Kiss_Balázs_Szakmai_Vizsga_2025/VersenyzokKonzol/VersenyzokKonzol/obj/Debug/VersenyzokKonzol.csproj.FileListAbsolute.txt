@@ -1,0 +1,8 @@
+C:\Users\erettsegi\Desktop\Kiss_Balázs_Szakmai_Vizsga_2025\VersenyzokKonzol\VersenyzokKonzol\bin\Debug\VersenyzokKonzol.exe.config
+C:\Users\erettsegi\Desktop\Kiss_Balázs_Szakmai_Vizsga_2025\VersenyzokKonzol\VersenyzokKonzol\bin\Debug\VersenyzokKonzol.exe
+C:\Users\erettsegi\Desktop\Kiss_Balázs_Szakmai_Vizsga_2025\VersenyzokKonzol\VersenyzokKonzol\bin\Debug\VersenyzokKonzol.pdb
+C:\Users\erettsegi\Desktop\Kiss_Balázs_Szakmai_Vizsga_2025\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.csproj.AssemblyReference.cache
+C:\Users\erettsegi\Desktop\Kiss_Balázs_Szakmai_Vizsga_2025\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.csproj.CoreCompileInputs.cache
+C:\Users\erettsegi\Desktop\Kiss_Balázs_Szakmai_Vizsga_2025\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.exe
+C:\Users\erettsegi\Desktop\Kiss_Balázs_Szakmai_Vizsga_2025\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.pdb
+C:\Users\erettsegi\Desktop\Kiss_Balázs_Szakmai_Vizsga_2025\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.exe.config

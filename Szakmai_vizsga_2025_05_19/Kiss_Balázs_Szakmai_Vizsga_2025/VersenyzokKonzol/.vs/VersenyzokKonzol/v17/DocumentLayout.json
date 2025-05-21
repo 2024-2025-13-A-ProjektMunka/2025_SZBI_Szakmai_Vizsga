@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erettsegi\\Desktop\\Kiss_Bal\u00E1zs_Szakmai_Vizsga_2025\\VersenyzokKonzol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{019B8A51-5363-48BD-A0F5-46D516ADD7DA}|VersenyzokKonzol\\VersenyzokKonzol.csproj|c:\\users\\erettsegi\\desktop\\kiss_bal\u00E1zs_szakmai_vizsga_2025\\versenyzokkonzol\\versenyzokkonzol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019B8A51-5363-48BD-A0F5-46D516ADD7DA}|VersenyzokKonzol\\VersenyzokKonzol.csproj|solutionrelative:versenyzokkonzol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019B8A51-5363-48BD-A0F5-46D516ADD7DA}|VersenyzokKonzol\\VersenyzokKonzol.csproj|c:\\users\\erettsegi\\desktop\\kiss_bal\u00E1zs_szakmai_vizsga_2025\\versenyzokkonzol\\versenyzokkonzol\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019B8A51-5363-48BD-A0F5-46D516ADD7DA}|VersenyzokKonzol\\VersenyzokKonzol.csproj|solutionrelative:versenyzokkonzol\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F54834-313F-4884-B164-778F4C83B594}|VersenyzokGrafikus\\VersenyzokGrafikus.csproj|c:\\users\\erettsegi\\desktop\\kiss_bal\u00E1zs_szakmai_vizsga_2025\\versenyzokkonzol\\versenyzokgrafikus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23F54834-313F-4884-B164-778F4C83B594}|VersenyzokGrafikus\\VersenyzokGrafikus.csproj|solutionrelative:versenyzokgrafikus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F54834-313F-4884-B164-778F4C83B594}|VersenyzokGrafikus\\VersenyzokGrafikus.csproj|c:\\users\\erettsegi\\desktop\\kiss_bal\u00E1zs_szakmai_vizsga_2025\\versenyzokkonzol\\versenyzokgrafikus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F54834-313F-4884-B164-778F4C83B594}|VersenyzokGrafikus\\VersenyzokGrafikus.csproj|solutionrelative:versenyzokgrafikus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\erettsegi\\Desktop\\Kiss_Bal\u00E1zs_Szakmai_Vizsga_2025\\VersenyzokKonzol\\VersenyzokGrafikus\\Form1.cs",
+              "RelativeDocumentMoniker": "VersenyzokGrafikus\\Form1.cs",
+              "ToolTip": "C:\\Users\\erettsegi\\Desktop\\Kiss_Bal\u00E1zs_Szakmai_Vizsga_2025\\VersenyzokKonzol\\VersenyzokGrafikus\\Form1.cs",
+              "RelativeToolTip": "VersenyzokGrafikus\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:29:10.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erettsegi\\Desktop\\Kiss_Bal\u00E1zs_Szakmai_Vizsga_2025\\VersenyzokKonzol\\VersenyzokGrafikus\\Form1.cs",
+              "RelativeDocumentMoniker": "VersenyzokGrafikus\\Form1.cs",
+              "ToolTip": "C:\\Users\\erettsegi\\Desktop\\Kiss_Bal\u00E1zs_Szakmai_Vizsga_2025\\VersenyzokKonzol\\VersenyzokGrafikus\\Form1.cs [Design]",
+              "RelativeToolTip": "VersenyzokGrafikus\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:24:11.416Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Versenyzo.cs",
+              "DocumentMoniker": "C:\\Users\\erettsegi\\Desktop\\Kiss_Bal\u00E1zs_Szakmai_Vizsga_2025\\VersenyzokKonzol\\VersenyzokKonzol\\Versenyzo.cs",
+              "RelativeDocumentMoniker": "VersenyzokKonzol\\Versenyzo.cs",
+              "ToolTip": "C:\\Users\\erettsegi\\Desktop\\Kiss_Bal\u00E1zs_Szakmai_Vizsga_2025\\VersenyzokKonzol\\VersenyzokKonzol\\Versenyzo.cs",
+              "RelativeToolTip": "VersenyzokKonzol\\Versenyzo.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAzwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:03:04.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erettsegi\\Desktop\\Kiss_Bal\u00E1zs_Szakmai_Vizsga_2025\\VersenyzokKonzol\\VersenyzokKonzol\\Program.cs",
+              "RelativeDocumentMoniker": "VersenyzokKonzol\\Program.cs",
+              "ToolTip": "C:\\Users\\erettsegi\\Desktop\\Kiss_Bal\u00E1zs_Szakmai_Vizsga_2025\\VersenyzokKonzol\\VersenyzokKonzol\\Program.cs",
+              "RelativeToolTip": "VersenyzokKonzol\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:02:23.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

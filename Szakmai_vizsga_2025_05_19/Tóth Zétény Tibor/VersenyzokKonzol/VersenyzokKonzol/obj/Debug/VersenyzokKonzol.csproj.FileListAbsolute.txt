@@ -1,0 +1,19 @@
+C:\Users\erettsegi\source\repos\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.csproj.AssemblyReference.cache
+C:\Users\erettsegi\source\repos\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.csproj.CoreCompileInputs.cache
+C:\Users\erettsegi\source\repos\VersenyzokKonzol\VersenyzokKonzol\bin\Debug\VersenyzokKonzol.exe.config
+C:\Users\erettsegi\source\repos\VersenyzokKonzol\VersenyzokKonzol\bin\Debug\VersenyzokKonzol.exe
+C:\Users\erettsegi\source\repos\VersenyzokKonzol\VersenyzokKonzol\bin\Debug\VersenyzokKonzol.pdb
+C:\Users\erettsegi\source\repos\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.exe
+C:\Users\erettsegi\source\repos\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.pdb
+C:\Users\erettsegi\source\repos\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.exe.config
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Tóth Zétény Tibor\VersenyzokKonzol\VersenyzokKonzol\bin\Debug\VersenyzokKonzol.exe.config
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Tóth Zétény Tibor\VersenyzokKonzol\VersenyzokKonzol\bin\Debug\VersenyzokKonzol.exe
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Tóth Zétény Tibor\VersenyzokKonzol\VersenyzokKonzol\bin\Debug\VersenyzokKonzol.pdb
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Tóth Zétény Tibor\VersenyzokKonzol\VersenyzokKonzol\bin\Debug\VersenyzokGrafikus.exe
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Tóth Zétény Tibor\VersenyzokKonzol\VersenyzokKonzol\bin\Debug\VersenyzokGrafikus.pdb
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Tóth Zétény Tibor\VersenyzokKonzol\VersenyzokKonzol\bin\Debug\VersenyzokGrafikus.exe.config
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Tóth Zétény Tibor\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.csproj.AssemblyReference.cache
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Tóth Zétény Tibor\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Tóth Zétény Tibor\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.csproj.CopyComplete
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Tóth Zétény Tibor\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.exe
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Tóth Zétény Tibor\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.pdb

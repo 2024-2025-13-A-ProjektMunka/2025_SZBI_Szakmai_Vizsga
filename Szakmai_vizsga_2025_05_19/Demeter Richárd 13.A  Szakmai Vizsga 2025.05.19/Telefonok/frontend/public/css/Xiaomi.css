@@ -1,0 +1,99 @@
+.xiaomik-container {
+    align-items: center;
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    margin-top: 40px;
+    width: 100%;
+}
+
+.xiaomik-kontener {
+    display: grid;
+    gap: 1em;
+    margin: auto;
+    padding-top: 4em;
+    width: 80%;
+}
+
+.xiaomi-container {
+    align-items: center;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 3px;
+    height: 90%;
+    justify-content: center;
+    padding: 1em;
+}
+
+.xiaomi-kep {
+    padding: 5px;
+    width: 60%;
+}
+
+.xiaomi-kep img {
+    height: 60%;
+    object-fit: fill;
+    width: 80%;
+}
+
+.xiaomi-leiras {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.xiaomik-szamlalo {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
+
+.xiaomik-szamlalo .material-symbols-outlined {
+    background-color: #bbbbbb;
+    cursor: pointer;
+    height: 30px;
+    font-size: 30px;
+    user-select: none;
+    width: 30px;
+}
+
+@media screen and (max-width: 1000px) {
+  .xiaomik-container{
+    grid-template-columns: auto;
+  }
+}
+
+@media screen and (max-width: 870px) {
+  .xiaomik-kontener{
+    grid-template-columns: auto;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .xiaomi-kep{
+    grid-template-columns: auto;
+  }
+}
+
+
+
+@media screen and (max-width: 900px) {
+  .xiaomik-leiras{
+    grid-template-columns: auto;
+  }
+}
+
+
+
+@media screen and (max-width: 850px) {
+  .xiaomik-szamlalo{
+    grid-template-columns: auto;
+  }
+}
+
+
+
+

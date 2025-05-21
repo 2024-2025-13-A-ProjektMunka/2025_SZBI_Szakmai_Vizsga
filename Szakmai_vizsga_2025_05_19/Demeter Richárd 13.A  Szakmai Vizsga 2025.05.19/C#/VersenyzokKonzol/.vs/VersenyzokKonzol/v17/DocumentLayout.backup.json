@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erettsegi\\Desktop\\Demeter Rich\u00E1rd 13.A  Szakmai Vizsga 2025.05.19\\C#\\VersenyzokKonzol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC31DF2-7AC8-4DD8-A0EA-0761F13086A1}|VersenyzokKonzol\\VersenyzokKonzol.csproj|C:\\Users\\erettsegi\\Desktop\\Demeter Rich\u00E1rd 13.A  Szakmai Vizsga 2025.05.19\\C#\\VersenyzokKonzol\\VersenyzokKonzol\\Versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC31DF2-7AC8-4DD8-A0EA-0761F13086A1}|VersenyzokKonzol\\VersenyzokKonzol.csproj|solutionrelative:VersenyzokKonzol\\Versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8D4AF2-C8A4-4F98-9E15-E1BC5E87BDF8}|VersenyzokGrafikus\\VersenyzokGrafikus.csproj|C:\\Users\\erettsegi\\Desktop\\Demeter Rich\u00E1rd 13.A  Szakmai Vizsga 2025.05.19\\C#\\VersenyzokKonzol\\VersenyzokGrafikus\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8D4AF2-C8A4-4F98-9E15-E1BC5E87BDF8}|VersenyzokGrafikus\\VersenyzokGrafikus.csproj|solutionrelative:VersenyzokGrafikus\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC31DF2-7AC8-4DD8-A0EA-0761F13086A1}|VersenyzokKonzol\\VersenyzokKonzol.csproj|c:\\users\\erettsegi\\desktop\\demeter rich\u00E1rd 13.a  szakmai vizsga 2025.05.19\\c#\\versenyzokkonzol\\versenyzokkonzol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC31DF2-7AC8-4DD8-A0EA-0761F13086A1}|VersenyzokKonzol\\VersenyzokKonzol.csproj|solutionrelative:versenyzokkonzol\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8D4AF2-C8A4-4F98-9E15-E1BC5E87BDF8}|VersenyzokGrafikus\\VersenyzokGrafikus.csproj|C:\\Users\\erettsegi\\Desktop\\Demeter Rich\u00E1rd 13.A  Szakmai Vizsga 2025.05.19\\C#\\VersenyzokKonzol\\versenyzokgrafikus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C8D4AF2-C8A4-4F98-9E15-E1BC5E87BDF8}|VersenyzokGrafikus\\VersenyzokGrafikus.csproj|solutionrelative:versenyzokgrafikus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\erettsegi\\Desktop\\Demeter Rich\u00E1rd 13.A  Szakmai Vizsga 2025.05.19\\C#\\VersenyzokKonzol\\VersenyzokGrafikus\\Form1.cs",
+              "RelativeDocumentMoniker": "VersenyzokGrafikus\\Form1.cs",
+              "ToolTip": "C:\\Users\\erettsegi\\Desktop\\Demeter Rich\u00E1rd 13.A  Szakmai Vizsga 2025.05.19\\C#\\VersenyzokKonzol\\VersenyzokGrafikus\\Form1.cs",
+              "RelativeToolTip": "VersenyzokGrafikus\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:32:53.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erettsegi\\Desktop\\Demeter Rich\u00E1rd 13.A  Szakmai Vizsga 2025.05.19\\C#\\VersenyzokKonzol\\VersenyzokGrafikus\\Form1.cs",
+              "RelativeDocumentMoniker": "VersenyzokGrafikus\\Form1.cs",
+              "ToolTip": "C:\\Users\\erettsegi\\Desktop\\Demeter Rich\u00E1rd 13.A  Szakmai Vizsga 2025.05.19\\C#\\VersenyzokKonzol\\VersenyzokGrafikus\\Form1.cs [Design]",
+              "RelativeToolTip": "VersenyzokGrafikus\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:30:20.341Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Versenyzo.cs",
+              "DocumentMoniker": "C:\\Users\\erettsegi\\Desktop\\Demeter Rich\u00E1rd 13.A  Szakmai Vizsga 2025.05.19\\C#\\VersenyzokKonzol\\VersenyzokKonzol\\Versenyzo.cs",
+              "RelativeDocumentMoniker": "VersenyzokKonzol\\Versenyzo.cs",
+              "ToolTip": "C:\\Users\\erettsegi\\Desktop\\Demeter Rich\u00E1rd 13.A  Szakmai Vizsga 2025.05.19\\C#\\VersenyzokKonzol\\VersenyzokKonzol\\Versenyzo.cs",
+              "RelativeToolTip": "VersenyzokKonzol\\Versenyzo.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:05:08.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erettsegi\\Desktop\\Demeter Rich\u00E1rd 13.A  Szakmai Vizsga 2025.05.19\\C#\\VersenyzokKonzol\\VersenyzokKonzol\\Program.cs",
+              "RelativeDocumentMoniker": "VersenyzokKonzol\\Program.cs",
+              "ToolTip": "C:\\Users\\erettsegi\\Desktop\\Demeter Rich\u00E1rd 13.A  Szakmai Vizsga 2025.05.19\\C#\\VersenyzokKonzol\\VersenyzokKonzol\\Program.cs",
+              "RelativeToolTip": "VersenyzokKonzol\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:04:09.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "nev": "Galaxy A16",
+        "samsung_max_memoria": 128,
+        "samsung_mennyisegi_ar": 84990
+    },
+    {
+        "nev": "Galaxy S24",
+        "samsung_max_memoria": 256,
+        "samsung_mennyisegi_ar": 285999
+    },
+    {
+        "nev": "Galaxy S25",
+        "samsung_max_memoria": 256,
+        "samsung_mennyisegi_ar": 409990
+    },
+    {
+        "nev": "Galaxy S25 Ultra",
+        "samsung_max_memoria": 1024,
+        "samsung_mennyisegi_ar": 499990
+    },
+    {
+        "nev": "Galaxy A35",
+        "samsung_max_memoria": 256,
+        "samsung_mennyisegi_ar": 126999
+    },
+    {
+        "nev": "Galaxy A55",
+        "samsung_max_memoria": 256,
+        "samsung_mennyisegi_ar": 145999
+    }
+]

@@ -1,0 +1,2 @@
+C:\Users\erettsegi\Desktop\Forgács Levente\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.csproj.AssemblyReference.cache
+C:\Users\erettsegi\Desktop\Forgács Levente\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.csproj.CoreCompileInputs.cache

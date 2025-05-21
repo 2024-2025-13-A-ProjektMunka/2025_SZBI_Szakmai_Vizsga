@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersenyzokKonzol", "VersenyzokKonzol\VersenyzokKonzol.csproj", "{A9FC9B2D-810A-42B3-838A-7C66D2A26C69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersenyzokGrafikus", "VersenyzokGrafikus\VersenyzokGrafikus.csproj", "{E53AAC4B-2777-47F3-8A8E-0BAF62BA48F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9FC9B2D-810A-42B3-838A-7C66D2A26C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9FC9B2D-810A-42B3-838A-7C66D2A26C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9FC9B2D-810A-42B3-838A-7C66D2A26C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9FC9B2D-810A-42B3-838A-7C66D2A26C69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E53AAC4B-2777-47F3-8A8E-0BAF62BA48F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53AAC4B-2777-47F3-8A8E-0BAF62BA48F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53AAC4B-2777-47F3-8A8E-0BAF62BA48F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E53AAC4B-2777-47F3-8A8E-0BAF62BA48F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {559110D1-E83F-438A-908B-56AED45F962B}
+	EndGlobalSection
+EndGlobal

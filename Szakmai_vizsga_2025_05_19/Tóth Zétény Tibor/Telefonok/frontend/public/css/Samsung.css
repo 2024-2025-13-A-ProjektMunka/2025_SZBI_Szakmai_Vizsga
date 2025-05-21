@@ -1,0 +1,68 @@
+.samsungok-container {
+    align-items: center;
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    margin-top: 40px;
+    width: 100%;
+}
+
+.samsungok-kontener {
+    display: grid;
+    gap: 1em;
+    margin: auto;
+    padding-top: 4em;
+    width: 80%;
+}
+
+.samsung-container {
+    align-items: center;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 3px;
+    height: 90%;
+    justify-content: center;
+    padding: 1em;
+}
+
+.samsung-kep {
+    padding: 5px;
+    width: 60%;
+}
+
+.samsung-kep img {
+    height: 60%;
+    object-fit: fill;
+    width: 80%;
+}
+
+.samsung-leiras {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.samsungok-szamlalo {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
+
+.samsungok-szamlalo .material-symbols-outlined {
+    background-color: #bbbbbb;
+    cursor: pointer;
+    height: 30px;
+    font-size: 30px;
+    user-select: none;
+    width: 30px;
+}
+
+
+@media screen and (max-width: 1300px) {
+  div.samsung-container {
+    grid-template-columns: 2,1 fr;
+  }
+}

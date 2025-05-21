@@ -1,0 +1,14 @@
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "webshop",
+    "main": "server.js",
+    
+    "scripts": {
+        "start":"nodemon server.js",
+    "dev": "nodemon server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}

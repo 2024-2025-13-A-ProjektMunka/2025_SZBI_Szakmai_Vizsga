@@ -1,0 +1,8 @@
+C:\Users\erettsegi\Desktop\Nagyvati_Romeo\VersenyKonzol\VersenyKonzol\obj\Debug\VersenyKonzol.csproj.AssemblyReference.cache
+C:\Users\erettsegi\Desktop\Nagyvati_Romeo\VersenyKonzol\VersenyKonzol\obj\Debug\VersenyKonzol.csproj.CoreCompileInputs.cache
+C:\Users\erettsegi\Desktop\Nagyvati_Romeo\VersenyKonzol\VersenyKonzol\bin\Debug\VersenyKonzol.exe.config
+C:\Users\erettsegi\Desktop\Nagyvati_Romeo\VersenyKonzol\VersenyKonzol\bin\Debug\VersenyKonzol.exe
+C:\Users\erettsegi\Desktop\Nagyvati_Romeo\VersenyKonzol\VersenyKonzol\bin\Debug\VersenyKonzol.pdb
+C:\Users\erettsegi\Desktop\Nagyvati_Romeo\VersenyKonzol\VersenyKonzol\obj\Debug\VersenyKonzol.exe
+C:\Users\erettsegi\Desktop\Nagyvati_Romeo\VersenyKonzol\VersenyKonzol\obj\Debug\VersenyKonzol.pdb
+C:\Users\erettsegi\Desktop\Nagyvati_Romeo\VersenyKonzol\VersenyKonzol\obj\Debug\VersenyKonzol.exe.config

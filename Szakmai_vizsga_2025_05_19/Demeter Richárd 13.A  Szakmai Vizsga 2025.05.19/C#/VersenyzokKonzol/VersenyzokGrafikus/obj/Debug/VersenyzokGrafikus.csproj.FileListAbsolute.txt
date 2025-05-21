@@ -1,0 +1,14 @@
+C:\Users\erettsegi\Desktop\Demeter Richárd 13.A\C#\VersenyzokKonzol\VersenyzokGrafikus\bin\Debug\VersenyzokGrafikus.exe.config
+C:\Users\erettsegi\Desktop\Demeter Richárd 13.A\C#\VersenyzokKonzol\VersenyzokGrafikus\bin\Debug\VersenyzokGrafikus.exe
+C:\Users\erettsegi\Desktop\Demeter Richárd 13.A\C#\VersenyzokKonzol\VersenyzokGrafikus\bin\Debug\VersenyzokGrafikus.pdb
+C:\Users\erettsegi\Desktop\Demeter Richárd 13.A\C#\VersenyzokKonzol\VersenyzokGrafikus\bin\Debug\VersenyzokKonzol.exe
+C:\Users\erettsegi\Desktop\Demeter Richárd 13.A\C#\VersenyzokKonzol\VersenyzokGrafikus\bin\Debug\VersenyzokKonzol.pdb
+C:\Users\erettsegi\Desktop\Demeter Richárd 13.A\C#\VersenyzokKonzol\VersenyzokGrafikus\bin\Debug\VersenyzokKonzol.exe.config
+C:\Users\erettsegi\Desktop\Demeter Richárd 13.A\C#\VersenyzokKonzol\VersenyzokGrafikus\obj\Debug\VersenyzokGrafikus.csproj.AssemblyReference.cache
+C:\Users\erettsegi\Desktop\Demeter Richárd 13.A\C#\VersenyzokKonzol\VersenyzokGrafikus\obj\Debug\VersenyzokGrafikus.Form1.resources
+C:\Users\erettsegi\Desktop\Demeter Richárd 13.A\C#\VersenyzokKonzol\VersenyzokGrafikus\obj\Debug\VersenyzokGrafikus.Properties.Resources.resources
+C:\Users\erettsegi\Desktop\Demeter Richárd 13.A\C#\VersenyzokKonzol\VersenyzokGrafikus\obj\Debug\VersenyzokGrafikus.csproj.GenerateResource.cache
+C:\Users\erettsegi\Desktop\Demeter Richárd 13.A\C#\VersenyzokKonzol\VersenyzokGrafikus\obj\Debug\VersenyzokGrafikus.csproj.CoreCompileInputs.cache
+C:\Users\erettsegi\Desktop\Demeter Richárd 13.A\C#\VersenyzokKonzol\VersenyzokGrafikus\obj\Debug\Versenyz.F1E6C74A.Up2Date
+C:\Users\erettsegi\Desktop\Demeter Richárd 13.A\C#\VersenyzokKonzol\VersenyzokGrafikus\obj\Debug\VersenyzokGrafikus.exe
+C:\Users\erettsegi\Desktop\Demeter Richárd 13.A\C#\VersenyzokKonzol\VersenyzokGrafikus\obj\Debug\VersenyzokGrafikus.pdb

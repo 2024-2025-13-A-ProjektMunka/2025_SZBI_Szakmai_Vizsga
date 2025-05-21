@@ -1,0 +1,2 @@
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Szabó Gergő\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.csproj.AssemblyReference.cache
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Szabó Gergő\VersenyzokKonzol\VersenyzokKonzol\obj\Debug\VersenyzokKonzol.csproj.CoreCompileInputs.cache

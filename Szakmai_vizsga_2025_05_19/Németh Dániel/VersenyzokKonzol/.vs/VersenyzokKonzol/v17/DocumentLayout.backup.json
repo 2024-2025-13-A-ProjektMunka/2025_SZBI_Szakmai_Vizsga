@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erettsegi\\Desktop\\N\u00E9meth D\u00E1niel\\VersenyzokKonzol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0AF864-1C17-40B2-941F-A2DBFABEF53A}|VersenyzokKonzol\\VersenyzokKonzol.csproj|c:\\users\\erettsegi\\desktop\\n\u00E9meth d\u00E1niel\\versenyzokkonzol\\versenyzokkonzol\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0AF864-1C17-40B2-941F-A2DBFABEF53A}|VersenyzokKonzol\\VersenyzokKonzol.csproj|solutionrelative:versenyzokkonzol\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5442818F-2735-4CEF-A303-CE13B19836D1}|VersenyzokGrafikus\\VersenyzokGrafikus.csproj|C:\\Users\\erettsegi\\Desktop\\N\u00E9meth D\u00E1niel\\VersenyzokKonzol\\versenyzokgrafikus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5442818F-2735-4CEF-A303-CE13B19836D1}|VersenyzokGrafikus\\VersenyzokGrafikus.csproj|solutionrelative:versenyzokgrafikus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5442818F-2735-4CEF-A303-CE13B19836D1}|VersenyzokGrafikus\\VersenyzokGrafikus.csproj|C:\\Users\\erettsegi\\Desktop\\N\u00E9meth D\u00E1niel\\VersenyzokKonzol\\VersenyzokGrafikus\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5442818F-2735-4CEF-A303-CE13B19836D1}|VersenyzokGrafikus\\VersenyzokGrafikus.csproj|solutionrelative:VersenyzokGrafikus\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0AF864-1C17-40B2-941F-A2DBFABEF53A}|VersenyzokKonzol\\VersenyzokKonzol.csproj|C:\\Users\\erettsegi\\Desktop\\N\u00E9meth D\u00E1niel\\VersenyzokKonzol\\VersenyzokKonzol\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0AF864-1C17-40B2-941F-A2DBFABEF53A}|VersenyzokKonzol\\VersenyzokKonzol.csproj|solutionrelative:VersenyzokKonzol\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5442818F-2735-4CEF-A303-CE13B19836D1}|VersenyzokGrafikus\\VersenyzokGrafikus.csproj|C:\\Users\\erettsegi\\Desktop\\N\u00E9meth D\u00E1niel\\VersenyzokKonzol\\VersenyzokGrafikus\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5442818F-2735-4CEF-A303-CE13B19836D1}|VersenyzokGrafikus\\VersenyzokGrafikus.csproj|solutionrelative:VersenyzokGrafikus\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erettsegi\\Desktop\\N\u00E9meth D\u00E1niel\\VersenyzokKonzol\\VersenyzokGrafikus\\Program.cs",
+              "RelativeDocumentMoniker": "VersenyzokGrafikus\\Program.cs",
+              "ToolTip": "C:\\Users\\erettsegi\\Desktop\\N\u00E9meth D\u00E1niel\\VersenyzokKonzol\\VersenyzokGrafikus\\Program.cs",
+              "RelativeToolTip": "VersenyzokGrafikus\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:21:05.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\erettsegi\\Desktop\\N\u00E9meth D\u00E1niel\\VersenyzokKonzol\\VersenyzokGrafikus\\Form1.cs",
+              "RelativeDocumentMoniker": "VersenyzokGrafikus\\Form1.cs",
+              "ToolTip": "C:\\Users\\erettsegi\\Desktop\\N\u00E9meth D\u00E1niel\\VersenyzokKonzol\\VersenyzokGrafikus\\Form1.cs",
+              "RelativeToolTip": "VersenyzokGrafikus\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:23:41.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\erettsegi\\Desktop\\N\u00E9meth D\u00E1niel\\VersenyzokKonzol\\VersenyzokGrafikus\\Form1.cs",
+              "RelativeDocumentMoniker": "VersenyzokGrafikus\\Form1.cs",
+              "ToolTip": "C:\\Users\\erettsegi\\Desktop\\N\u00E9meth D\u00E1niel\\VersenyzokKonzol\\VersenyzokGrafikus\\Form1.cs [Design]",
+              "RelativeToolTip": "VersenyzokGrafikus\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:19:23.785Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Versenyzo.cs",
+              "DocumentMoniker": "C:\\Users\\erettsegi\\Desktop\\N\u00E9meth D\u00E1niel\\VersenyzokKonzol\\VersenyzokKonzol\\Versenyzo.cs",
+              "RelativeDocumentMoniker": "VersenyzokKonzol\\Versenyzo.cs",
+              "ToolTip": "C:\\Users\\erettsegi\\Desktop\\N\u00E9meth D\u00E1niel\\VersenyzokKonzol\\VersenyzokKonzol\\Versenyzo.cs",
+              "RelativeToolTip": "VersenyzokKonzol\\Versenyzo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:04:31.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erettsegi\\Desktop\\N\u00E9meth D\u00E1niel\\VersenyzokKonzol\\VersenyzokKonzol\\Program.cs",
+              "RelativeDocumentMoniker": "VersenyzokKonzol\\Program.cs",
+              "ToolTip": "C:\\Users\\erettsegi\\Desktop\\N\u00E9meth D\u00E1niel\\VersenyzokKonzol\\VersenyzokKonzol\\Program.cs",
+              "RelativeToolTip": "VersenyzokKonzol\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:03:35.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

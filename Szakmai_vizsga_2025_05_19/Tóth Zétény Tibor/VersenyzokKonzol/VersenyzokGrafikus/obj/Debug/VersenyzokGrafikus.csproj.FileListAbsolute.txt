@@ -1,0 +1,10 @@
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Tóth Zétény Tibor\VersenyzokKonzol\VersenyzokGrafikus\bin\Debug\VersenyzokGrafikus.exe.config
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Tóth Zétény Tibor\VersenyzokKonzol\VersenyzokGrafikus\bin\Debug\VersenyzokGrafikus.exe
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Tóth Zétény Tibor\VersenyzokKonzol\VersenyzokGrafikus\bin\Debug\VersenyzokGrafikus.pdb
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Tóth Zétény Tibor\VersenyzokKonzol\VersenyzokGrafikus\obj\Debug\VersenyzokGrafikus.csproj.AssemblyReference.cache
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Tóth Zétény Tibor\VersenyzokKonzol\VersenyzokGrafikus\obj\Debug\VersenyzokGrafikus.Form1.resources
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Tóth Zétény Tibor\VersenyzokKonzol\VersenyzokGrafikus\obj\Debug\VersenyzokGrafikus.Properties.Resources.resources
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Tóth Zétény Tibor\VersenyzokKonzol\VersenyzokGrafikus\obj\Debug\VersenyzokGrafikus.csproj.GenerateResource.cache
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Tóth Zétény Tibor\VersenyzokKonzol\VersenyzokGrafikus\obj\Debug\VersenyzokGrafikus.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Tóth Zétény Tibor\VersenyzokKonzol\VersenyzokGrafikus\obj\Debug\VersenyzokGrafikus.exe
+C:\Users\Peter\Desktop\2025_SZBI_Szakmai_Vizsga\Szakmai_vizsga_2025_05_19\Tóth Zétény Tibor\VersenyzokKonzol\VersenyzokGrafikus\obj\Debug\VersenyzokGrafikus.pdb
